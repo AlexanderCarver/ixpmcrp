@@ -1,0 +1,9 @@
+ITEM.name = "Семена лука"
+ITEM.model = "models/items/jewels/purses/big_purse.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "Небольшой мешочек с семенами лука."
+ITEM.PlantModel = "models/aoc_trees/aoc_lowveg12.mdl"
+ITEM.BadGathering = {"seed_onion"}
+ITEM.CommonGathering = {"seed_onion","onion"}
+ITEM.MasterGathering = {"seed_onion","seed_onion","onion"}

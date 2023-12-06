@@ -1,0 +1,9 @@
+ITEM.name = "Семена помидора"
+ITEM.model = "models/items/jewels/purses/big_purse.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "Небольшой мешочек с семенами помидора."
+ITEM.PlantModel = "models/aoc_trees/aoc_lowveg19.mdl"
+ITEM.BadGathering = {"seed_tomato"}
+ITEM.CommonGathering = {"seed_tomato","tomato"}
+ITEM.MasterGathering = {"seed_tomato","seed_tomato","tomato"}
