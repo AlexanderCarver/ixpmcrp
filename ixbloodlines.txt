@@ -1,7 +1,0 @@
-"ixbloodlines"
-{
-	"base" 			"helix"
-	"title" 		"Bloodlines Skeleton"
-	"author" 		"Carver"
-	"menusystem"	"1"
-}

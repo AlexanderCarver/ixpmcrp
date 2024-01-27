@@ -1,0 +1,9 @@
+"militaryrp"
+{
+	"base" 			"helix"
+	"title" 		"pmcrp-ix"
+	"author" 		"Carver"
+	"menusystem"	"1"
+	"category"		"pve"
+	"workshopid"	"3057101548"
+}
