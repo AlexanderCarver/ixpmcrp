@@ -1,7 +1,7 @@
 FACTION.name = "Combatants Personnel"
 FACTION.description = ""
 FACTION.color = Color(47, 79, 79, 255)
-FACTION.isDefault = false
+FACTION.isDefault = true
 FACTION.isGloballyRecognized = false
 FACTION.models = {
     "models/leygun/rfarmy/soilder_rf_07.mdl"

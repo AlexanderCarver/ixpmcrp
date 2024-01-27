@@ -1,7 +1,7 @@
-"militaryrp"
+"ixpmcrp"
 {
 	"base" 			"helix"
-	"title" 		"pmcrp-ix"
+	"title" 		"ixpmcrp"
 	"author" 		"Carver"
 	"menusystem"	"1"
 	"category"		"pve"
