@@ -1,9 +1,0 @@
-ITEM.name = "Кирка"
-ITEM.description = "Используйте его для добычи минералов."
-ITEM.model = "models/weapons/HL2meleepack/w_pickaxe.mdl"
-ITEM.class = "weapon_j_mining_pickaxe"
-ITEM.weaponCategory = "tools"
-ITEM.flag = "v"
-ITEM.width = 3
-ITEM.height = 1
-ITEM.maxDurability = 400

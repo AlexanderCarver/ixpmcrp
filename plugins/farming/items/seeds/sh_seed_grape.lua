@@ -1,9 +1,0 @@
-ITEM.name = "Семена винограда"
-ITEM.model = "models/items/jewels/purses/big_purse.mdl"
-ITEM.width = 1
-ITEM.height = 1
-ITEM.description = "Небольшой мешочек с семенами винограда."
-ITEM.PlantModel = "models/props/nature/bush01.mdl"
-ITEM.BadGathering = {"seed_grape"}
-ITEM.CommonGathering = {"seed_grape","grape"}
-ITEM.MasterGathering = {"seed_grape","seed_grape","grape"}
