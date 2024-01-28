@@ -4,7 +4,7 @@ FACTION.color = Color(245, 245, 245, 255)
 FACTION.isDefault = false
 FACTION.isGloballyRecognized = false
 FACTION.models = {
-    "models/leygun/rfarmy/soilder_rf_07.mdl"
+    "models/kuge/private military contractor/pmc-5.mdl"
 }
 
 function FACTION:OnTransfered(client)

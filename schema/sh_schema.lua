@@ -1,8 +1,7 @@
-Schema.name = "PMC Jackal: Dirty Money (Act I)"
+Schema.name = "PMC Jackal: Dirty Money"
 Schema.author = "Carver"
-Schema.description = "Forging future, securing succes."
-Schema.version = "Legacy"
-Schema.logo = "materials/limefruit/server-logo_new_inverted.png"
+Schema.description = "Forging Future, SEcuring Sucess"
+Schema.logo = "materials/main/server-logo.png"
 Schema.color = Color(174, 174, 174, 255)
 
 -- Schema configs
@@ -19,7 +18,6 @@ ix.util.Include("meta/sh_character.lua")
 ix.util.Include("meta/sh_player.lua")
 
 ix.util.Include("libs/thirdparty/sh_netstream2.lua")
-ix.util.Include("libs/sh_command.lua")
 
 -- Animations
-ix.anim.SetModelClass("models/humans/marine.mdl", "overwatch")
+ix.anim.SetModelClass("models/kuge/private military contractor/pmc-5.mdl", "player")

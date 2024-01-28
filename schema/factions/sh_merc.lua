@@ -4,7 +4,17 @@ FACTION.color = Color(47, 79, 79, 255)
 FACTION.isDefault = true
 FACTION.isGloballyRecognized = false
 FACTION.models = {
-    "models/leygun/rfarmy/soilder_rf_07.mdl"
+    "models/kuge/private military contractor/pmc-5.mdl"
+}
+
+FACTION.startSkills = {
+	["athletics"] = 10,
+	["acrobatics"] = 10,
+	["guns"] = 10,
+	["unarmed"] = 5,
+	["medicine"] = 5,
+	["meleeguns"] = 10,
+	["impulse"] = 10,
 }
 
 function FACTION:OnTransfered(client)
